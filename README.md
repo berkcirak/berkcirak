@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Berk</h1>
-<h3 align="center">I'm interest in Java Spring Boot</h3>
-
-- 🌱 I’m currently learning **Spring Boot, Java, Angular**
+<h3 align="center">I'm interest in Spring Boot and Angular</h3>
 
 - 📫 How to reach me **atalayberkcrak@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/berk-%c3%a7%c4%b1rak-8564001b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/berk-%c3%a7%c4%b1rak-8564001b6/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@berkcirakk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="berkcirakk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/berkcirak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/berkcirak" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
